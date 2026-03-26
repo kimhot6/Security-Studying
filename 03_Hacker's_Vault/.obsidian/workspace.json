@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5becc25c5c672523",
+        "id": "54268dd1baf83364",
         "type": "tabs",
         "children": [
           {
-            "id": "06afbc1c21014d23",
+            "id": "bff2bf10c3155a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Web_Payloads/Methodology/Methodology - SQLi.md",
+                "file": "01_Web_Payloads/Payloads/SQLi/WAF 우회 Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methodology - SQLi"
+              "title": "WAF 우회 Cheatsheet"
             }
           }
         ]
@@ -181,11 +181,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "06afbc1c21014d23",
+  "active": "bff2bf10c3155a18",
   "lastOpenFiles": [
-    "01_Web_Payloads/Bible.md",
+    "01_Web_Payloads/Payloads/SQLi/WAF 우회 Cheatsheet.md",
     "01_Web_Payloads/Methodology/Methodology - SQLi.md",
     "01_Web_Payloads/Methodology/Methodology - XSS.md",
+    "01_Web_Payloads/[Bible] Web Hacking Entry Point.md",
     "01_Web_Payloads/Payloads/SQLi",
     "01_Web_Payloads/Payloads",
     "01_Web_Payloads/Methodology",
