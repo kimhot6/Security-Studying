@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Web_Payloads/Payloads/SQLi/WAF 우회 Cheatsheet.md",
+                "file": "00_Scratchpad/26.03.26 - XSS, SOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAF 우회 Cheatsheet"
+              "title": "26.03.26 - XSS, SOP"
             }
           }
         ]
@@ -183,10 +183,13 @@
   },
   "active": "bff2bf10c3155a18",
   "lastOpenFiles": [
-    "01_Web_Payloads/Payloads/SQLi/WAF 우회 Cheatsheet.md",
-    "01_Web_Payloads/Methodology/Methodology - SQLi.md",
     "01_Web_Payloads/Methodology/Methodology - XSS.md",
-    "01_Web_Payloads/[Bible] Web Hacking Entry Point.md",
+    "01_Web_Payloads/Payloads/XSS/XSS WAF Bypass.md",
+    "01_Web_Payloads/Web Hacking Entry Point.md",
+    "00_Scratchpad/26.03.26 - XSS, SOP.md",
+    "01_Web_Payloads/Methodology/Methodology - SQLi.md",
+    "01_Web_Payloads/Payloads/SQLi/SQLi WAF Bypass.md",
+    "01_Web_Payloads/Payloads/XSS",
     "01_Web_Payloads/Payloads/SQLi",
     "01_Web_Payloads/Payloads",
     "01_Web_Payloads/Methodology",
@@ -210,8 +213,6 @@
     "_Archive_Old_TIL/02/2026-02-25.md",
     "_Archive_Old_TIL/02/2026-02-22.md",
     "_Archive_Old_TIL/02/2026-02-21.md",
-    "_Archive_Old_TIL/02/2026-02-23.md",
-    "_Archive_Old_TIL/02/2026-02-20.md",
     "_Archive_Old_TIL/03",
     "_Archive_Old_TIL/02",
     "_Archive_Old_TIL",
