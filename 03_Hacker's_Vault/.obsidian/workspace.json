@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Scratchpad/26.03.26 - XSS, SOP.md",
+                "file": "01_Web_Payloads/Payloads/XSS/XSS WAF Bypass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.03.26 - XSS, SOP"
+              "title": "XSS WAF Bypass"
             }
           }
         ]
@@ -184,10 +184,10 @@
   "active": "bff2bf10c3155a18",
   "lastOpenFiles": [
     "01_Web_Payloads/Methodology/Methodology - XSS.md",
-    "01_Web_Payloads/Payloads/XSS/XSS WAF Bypass.md",
-    "01_Web_Payloads/Web Hacking Entry Point.md",
-    "00_Scratchpad/26.03.26 - XSS, SOP.md",
     "01_Web_Payloads/Methodology/Methodology - SQLi.md",
+    "01_Web_Payloads/Payloads/XSS/XSS WAF Bypass.md",
+    "00_Scratchpad/26.03.26 - XSS, SOP.md",
+    "01_Web_Payloads/Web Hacking Entry Point.md",
     "01_Web_Payloads/Payloads/SQLi/SQLi WAF Bypass.md",
     "01_Web_Payloads/Payloads/XSS",
     "01_Web_Payloads/Payloads/SQLi",
